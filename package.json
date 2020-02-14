@@ -1,0 +1,11 @@
+{
+  "name": "purge-spell",
+  "version": "1.0.0",
+  "description": "Tool for deleting files by extension.",
+  "main": "bin/index.js",
+  "author": "veearchmage",
+  "license": "MIT",
+  "bin": {
+    "purge-spell": "./bin/index.js"
+  }
+}
