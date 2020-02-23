@@ -9,6 +9,7 @@
     "purge-spell": "./bin/index.js"
   },
   "dependencies": {
+    "trash": "^6.1.1",
     "yargs": "^15.1.0"
   }
 }
