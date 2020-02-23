@@ -7,5 +7,5 @@
 1. Run **npm uninstall -g purge-spell** anywhere.
 
 # Usage
-*Currently, this  **permanently** deletes files.*
+*By default, this moves files to the Recycle Bin. Use **purge-spell extension perm** if you want to delete files for good.*
 1. Run **purge-spell extension** in any folder you want to delete files from, replacing **extension** with an extension. *(ex.: **purge-spell zip**)*
